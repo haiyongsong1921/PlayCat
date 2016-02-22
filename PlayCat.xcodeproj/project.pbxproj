@@ -1125,6 +1125,7 @@
 				GCC_PREFIX_HEADER = PlayCat/Prefix.pch;
 				HEADER_SEARCH_PATHS = "\"PlayCat/libs/kazmath/include\"";
 				INFOPLIST_FILE = PlayCat/Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				OTHER_LDFLAGS = (
 					"-lz",
 					"-lsqlite3",
@@ -1144,6 +1145,7 @@
 				GCC_PREFIX_HEADER = PlayCat/Prefix.pch;
 				HEADER_SEARCH_PATHS = "\"PlayCat/libs/kazmath/include\"";
 				INFOPLIST_FILE = PlayCat/Resources/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				OTHER_LDFLAGS = (
 					"-lz",
 					"-lsqlite3",
